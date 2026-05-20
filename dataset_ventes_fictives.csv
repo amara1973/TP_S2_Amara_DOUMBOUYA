@@ -1,0 +1,501 @@
+ID_Vente,Client,Produit,Quantite,Prix_Unitaire,Montant_Total,Date_Vente,Ville
+1,Allison Cantu,Souris,16,1459,23344,2025-07-05,Kindia
+2,Marissa Smith,Ordinateur,2,971,1942,2025-01-29,Kindia
+3,Steven Baker,Écran,7,1565,10955,2025-01-27,Boké
+4,Steven Francis,Imprimante,16,358,5728,2025-01-04,Labé
+5,Sue Jimenez,Ordinateur,6,70,420,2025-02-25,Conakry
+6,Anna Lewis,Casque,4,1139,4556,2025-05-20,Kindia
+7,Megan Ellis,Clavier,15,1340,20100,2025-10-14,Boké
+8,James Garza,Routeur,7,1525,10675,2025-09-17,Kankan
+9,Marissa Cherry,Souris,11,1287,14157,2025-10-01,Boké
+10,Heather Deleon,Tablette,8,596,4768,2025-09-21,Boké
+11,Kristin Gray DDS,Souris,2,1243,2486,2025-11-14,Conakry
+12,Scott Watts,Imprimante,20,1906,38120,2025-12-01,Nzérékoré
+13,Adrienne Washington,Téléphone,1,317,317,2025-08-24,Conakry
+14,Brandon King,Écran,14,868,12152,2025-12-13,Nzérékoré
+15,Robin Williams,Ordinateur,4,1581,6324,2025-06-01,Labé
+16,Richard Green,Disque SSD,19,1694,32186,2025-05-28,Kindia
+17,Patricia Price,Casque,14,250,3500,2025-04-11,Kindia
+18,Patricia Jackson DVM,Routeur,5,1843,9215,2025-07-05,Nzérékoré
+19,Thomas Cortez,Disque SSD,4,756,3024,2025-10-08,Nzérékoré
+20,Natalie Rodriguez,Tablette,12,890,10680,2025-02-13,Mamou
+21,Nancy Hawkins,Casque,8,887,7096,2025-02-06,Boké
+22,Nicole Downs,Téléphone,1,1280,1280,2025-07-31,Conakry
+23,Robin Walker,Tablette,2,151,302,2025-10-26,Mamou
+24,Elizabeth Griffin,Ordinateur,13,257,3341,2025-11-15,Conakry
+25,Tanya Murray,Routeur,5,491,2455,2025-07-15,Labé
+26,Lisa Tucker,Souris,17,1198,20366,2025-08-11,Mamou
+27,Robert Vaughan,Ordinateur,4,746,2984,2025-12-10,Kankan
+28,Thomas Sullivan,Imprimante,20,1578,31560,2025-09-25,Labé
+29,Kristen Butler,Souris,1,816,816,2025-10-13,Kindia
+30,Larry Romero,Téléphone,5,1055,5275,2025-01-17,Kankan
+31,Cristina Lang,Casque,16,1153,18448,2025-06-06,Nzérékoré
+32,Lauren Sullivan,Souris,6,1370,8220,2025-03-23,Boké
+33,Jacob Martin,Clavier,20,1904,38080,2025-09-17,Labé
+34,Edward Bruce,Imprimante,13,1830,23790,2025-03-13,Mamou
+35,Lacey Mcguire,Imprimante,1,1632,1632,2025-08-20,Mamou
+36,Kristen Flores,Souris,5,75,375,2025-05-03,Boké
+37,Matthew James,Casque,18,200,3600,2025-10-25,Boké
+38,Rick Bradley,Souris,7,1774,12418,2025-04-23,Conakry
+39,Samantha Burke,Écran,10,356,3560,2025-05-27,Nzérékoré
+40,Luke Barnett,Téléphone,12,1659,19908,2025-09-17,Kindia
+41,Tiffany Bennett,Souris,4,640,2560,2025-07-05,Kindia
+42,Melissa Preston,Disque SSD,11,1162,12782,2025-05-05,Kankan
+43,Jennifer Palmer,Routeur,1,1943,1943,2025-09-19,Boké
+44,Miss Jordan Young DVM,Disque SSD,8,1505,12040,2025-12-26,Kindia
+45,Chris Carpenter,Souris,5,1908,9540,2025-12-11,Conakry
+46,Kaitlin Willis,Clavier,10,1210,12100,2026-01-01,Mamou
+47,Bryan Boyd,Clavier,14,738,10332,2025-08-03,Conakry
+48,Hector Hicks,Ordinateur,4,670,2680,2025-08-20,Labé
+49,Lisa Thomas,Routeur,6,1820,10920,2025-06-06,Conakry
+50,Eric Reese,Routeur,2,290,580,2025-01-10,Kindia
+51,Lisa Baker,Souris,11,357,3927,2025-04-04,Boké
+52,Jonathan Horne,Disque SSD,5,1866,9330,2025-10-04,Boké
+53,Monica Evans,Imprimante,2,1638,3276,2025-10-30,Mamou
+54,Marc Anderson,Disque SSD,9,1781,16029,2025-07-21,Kankan
+55,David Nguyen,Routeur,3,803,2409,2025-04-18,Kindia
+56,Brian Ellis,Ordinateur,8,931,7448,2025-08-28,Conakry
+57,Mr. Christopher Bell,Tablette,18,1139,20502,2025-07-13,Labé
+58,Brian Carson,Téléphone,4,998,3992,2025-04-10,Kankan
+59,Brian Davis,Clavier,13,420,5460,2025-11-28,Kankan
+60,Suzanne Moore,Casque,15,536,8040,2025-12-30,Mamou
+61,Lynn Burns,Imprimante,3,504,1512,2025-07-01,Kindia
+62,Krystal Smith,Disque SSD,4,1035,4140,2025-09-26,Conakry
+63,Melissa Parrish,Clavier,6,1248,7488,2025-04-03,Kankan
+64,James Spence,Téléphone,2,1049,2098,2025-06-29,Labé
+65,Andrew Gates,Casque,11,1011,11121,2025-08-07,Mamou
+66,David Johnson,Tablette,12,1572,18864,2025-12-15,Nzérékoré
+67,Ronald Hunt,Casque,20,542,10840,2025-03-09,Nzérékoré
+68,Cynthia Smith,Imprimante,15,124,1860,2025-02-17,Boké
+69,Sarah Moody,Clavier,18,346,6228,2025-11-09,Nzérékoré
+70,Jessica Schmidt,Téléphone,15,176,2640,2025-03-23,Conakry
+71,Melanie Brandt,Souris,19,1589,30191,2025-07-21,Kankan
+72,Dawn Miller,Souris,10,667,6670,2025-07-19,Boké
+73,Colin Vargas,Téléphone,19,159,3021,2025-03-08,Nzérékoré
+74,Sharon Fox DDS,Routeur,16,1858,29728,2025-05-19,Kankan
+75,Daniel Rogers,Tablette,7,712,4984,2025-01-08,Nzérékoré
+76,Zoe Bell,Écran,19,1485,28215,2025-01-31,Labé
+77,Carlos Pierce,Écran,10,423,4230,2025-04-03,Boké
+78,Jennifer Anderson,Casque,12,923,11076,2025-04-05,Kankan
+79,Sarah Kennedy,Disque SSD,6,438,2628,2025-11-30,Labé
+80,Caleb Johnson,Souris,9,1275,11475,2025-05-25,Conakry
+81,Scott Manning PhD,Casque,3,1112,3336,2025-08-04,Boké
+82,Roberto Ferguson,Téléphone,1,1179,1179,2025-05-28,Mamou
+83,Amy Calhoun,Imprimante,20,692,13840,2025-07-18,Conakry
+84,Steven Hamilton,Clavier,8,1584,12672,2025-09-09,Kankan
+85,Carlos Adams,Disque SSD,4,1523,6092,2025-07-01,Boké
+86,Kyle Newton,Routeur,2,1881,3762,2025-11-01,Nzérékoré
+87,Hailey Myers,Clavier,9,1394,12546,2025-04-04,Conakry
+88,Ricardo Johnson,Ordinateur,11,1700,18700,2025-12-12,Labé
+89,Michael Harmon,Routeur,14,1028,14392,2025-04-27,Nzérékoré
+90,Anna Mcintosh,Ordinateur,8,1787,14296,2025-03-07,Boké
+91,Karen Clark,Téléphone,19,1077,20463,2025-08-04,Mamou
+92,Isabella Shelton,Routeur,4,895,3580,2025-07-24,Kankan
+93,Patricia Glover,Routeur,1,721,721,2025-03-26,Nzérékoré
+94,Alex Spence,Casque,12,1115,13380,2025-01-20,Mamou
+95,Nicholas Boone,Ordinateur,8,1912,15296,2025-01-06,Kindia
+96,Larry Flores,Ordinateur,9,1280,11520,2025-07-13,Kindia
+97,John Fowler,Routeur,14,1080,15120,2025-06-04,Kindia
+98,Jordan Phillips,Souris,7,276,1932,2025-11-06,Labé
+99,Katie Campbell,Ordinateur,9,1030,9270,2025-01-03,Labé
+100,Andrea Thornton,Routeur,9,491,4419,2025-04-05,Mamou
+101,Dawn Hines,Écran,2,863,1726,2025-11-23,Labé
+102,Molly Owens,Tablette,20,1733,34660,2025-12-30,Conakry
+103,Jessica Adams,Écran,3,442,1326,2025-11-19,Labé
+104,Samuel Wells,Imprimante,17,1071,18207,2025-11-06,Mamou
+105,Arthur Wilson,Téléphone,10,1114,11140,2025-09-12,Conakry
+106,Barbara Douglas,Disque SSD,2,799,1598,2025-04-24,Conakry
+107,Christopher Wheeler,Ordinateur,4,1957,7828,2025-04-05,Mamou
+108,Kelly Wilson,Tablette,9,1786,16074,2025-07-22,Kankan
+109,Crystal Carter,Écran,3,1696,5088,2025-05-21,Mamou
+110,Erica Parker,Souris,19,371,7049,2025-08-29,Labé
+111,Ashley Watts,Ordinateur,7,1280,8960,2025-12-21,Kindia
+112,Kelly Young,Ordinateur,3,369,1107,2025-07-28,Boké
+113,Jennifer Smith,Ordinateur,6,684,4104,2025-06-02,Labé
+114,Dr. Carolyn Ware,Casque,6,1908,11448,2025-04-10,Labé
+115,Kevin Rodriguez,Imprimante,4,1317,5268,2025-06-22,Kankan
+116,Samuel Garcia,Écran,7,1894,13258,2025-12-23,Kindia
+117,Annette Wells,Ordinateur,6,1045,6270,2025-11-25,Nzérékoré
+118,Amanda Hayes,Casque,17,342,5814,2025-02-11,Conakry
+119,Kimberly Smith,Écran,1,475,475,2025-09-03,Conakry
+120,Nicole Gilbert,Écran,13,638,8294,2025-07-07,Conakry
+121,Katelyn Walker,Téléphone,19,461,8759,2025-03-25,Kankan
+122,Paul Fitzgerald,Souris,18,1978,35604,2025-03-28,Conakry
+123,Brett Grimes III,Routeur,11,694,7634,2025-01-06,Nzérékoré
+124,Patricia Roberts,Écran,7,775,5425,2025-08-21,Nzérékoré
+125,John Escobar,Routeur,8,231,1848,2025-03-02,Kankan
+126,Mark Weaver,Casque,10,1070,10700,2025-02-02,Labé
+127,William Dodson,Disque SSD,14,244,3416,2025-09-16,Boké
+128,Robert Chavez,Écran,12,1294,15528,2025-06-22,Kindia
+129,Lance Thomas,Clavier,7,1364,9548,2025-04-14,Kindia
+130,Patricia Gardner,Téléphone,14,281,3934,2025-09-16,Kindia
+131,Richard Bruce,Téléphone,10,1871,18710,2025-10-09,Nzérékoré
+132,Jill Clayton,Tablette,16,829,13264,2025-11-11,Boké
+133,Catherine Parrish,Téléphone,2,637,1274,2025-01-12,Kankan
+134,Benjamin Carr,Clavier,9,433,3897,2025-09-18,Conakry
+135,Taylor Rodriguez,Tablette,4,878,3512,2025-04-27,Conakry
+136,Shawn Jarvis,Clavier,5,1189,5945,2025-11-19,Labé
+137,Kyle Franklin,Téléphone,5,1425,7125,2025-06-09,Conakry
+138,Sarah Robinson,Routeur,9,1018,9162,2025-10-18,Mamou
+139,Adam Donovan,Clavier,11,796,8756,2025-10-14,Kankan
+140,Amy Tran,Écran,12,1491,17892,2025-08-29,Boké
+141,Joseph Berry,Ordinateur,18,1397,25146,2025-08-14,Nzérékoré
+142,Jamie Gomez,Téléphone,3,1492,4476,2025-11-03,Nzérékoré
+143,Lauren Jensen,Téléphone,8,1436,11488,2025-09-02,Kankan
+144,Kelsey Clayton,Écran,10,773,7730,2025-01-23,Kankan
+145,Michael Burgess,Téléphone,9,280,2520,2025-12-01,Mamou
+146,Adrian Green,Téléphone,8,1041,8328,2025-11-18,Labé
+147,Kayla Williams,Souris,4,194,776,2025-10-20,Conakry
+148,Brandy Edwards,Imprimante,19,960,18240,2025-01-04,Nzérékoré
+149,Nathan Ingram,Ordinateur,11,683,7513,2025-05-27,Mamou
+150,Anthony Rogers,Disque SSD,9,1615,14535,2025-03-20,Mamou
+151,Elizabeth Fowler,Disque SSD,18,1355,24390,2025-02-21,Kindia
+152,Jessica Gardner,Téléphone,6,211,1266,2025-07-09,Conakry
+153,Dawn Oliver,Casque,8,1806,14448,2025-01-23,Labé
+154,Paul Anderson,Écran,5,103,515,2025-08-01,Mamou
+155,Matthew Ramos,Clavier,1,1224,1224,2025-03-22,Nzérékoré
+156,Johnny Harris,Casque,5,1916,9580,2025-09-03,Boké
+157,Elizabeth Blackburn,Routeur,3,1950,5850,2025-12-11,Labé
+158,Paul Robinson,Clavier,3,1001,3003,2025-04-05,Conakry
+159,Michael Schmidt,Clavier,12,209,2508,2025-04-23,Kankan
+160,Joyce Moon,Casque,7,1382,9674,2025-05-09,Labé
+161,Angela Mason,Ordinateur,8,483,3864,2025-07-30,Kankan
+162,Mary French,Routeur,2,1596,3192,2025-02-26,Boké
+163,Deborah Wilson,Tablette,14,1835,25690,2025-07-14,Nzérékoré
+164,Rachel Clark,Souris,19,1585,30115,2025-07-13,Nzérékoré
+165,Sean Boyd,Ordinateur,4,474,1896,2025-09-29,Boké
+166,Jason Hill,Imprimante,14,1166,16324,2025-12-06,Kindia
+167,Brett Jacobs DDS,Souris,13,500,6500,2025-01-19,Kindia
+168,Thomas Smith,Casque,12,299,3588,2025-11-15,Boké
+169,Anthony Martin,Disque SSD,20,1137,22740,2025-10-30,Nzérékoré
+170,Joyce Parks,Clavier,9,1486,13374,2025-12-22,Kankan
+171,Timothy Miller,Ordinateur,1,1840,1840,2025-05-21,Kindia
+172,Natalie Anderson,Tablette,20,1154,23080,2025-09-29,Kankan
+173,Andrew Nelson,Tablette,6,1923,11538,2025-01-22,Mamou
+174,Mark Sanders,Imprimante,19,1497,28443,2025-06-03,Kindia
+175,Carrie Moore,Souris,8,1658,13264,2025-04-23,Mamou
+176,Stephen Hall,Écran,13,387,5031,2025-11-10,Kankan
+177,Javier Velez,Téléphone,17,211,3587,2025-07-26,Kankan
+178,Scott Castaneda,Clavier,9,1335,12015,2025-07-31,Boké
+179,Carla Dean,Ordinateur,3,349,1047,2025-03-18,Kindia
+180,Samantha Roth,Casque,2,223,446,2025-06-11,Labé
+181,Savannah Morales,Ordinateur,7,1330,9310,2025-11-10,Boké
+182,Andrew Hernandez,Routeur,20,1664,33280,2025-12-04,Conakry
+183,Samuel Martinez,Routeur,9,1018,9162,2025-11-16,Kankan
+184,Jason Fowler,Ordinateur,19,473,8987,2025-04-17,Mamou
+185,Mackenzie Singh,Tablette,18,1530,27540,2025-09-24,Nzérékoré
+186,Michael Clayton,Casque,13,468,6084,2025-11-24,Kankan
+187,Lisa Welch,Téléphone,10,232,2320,2025-09-06,Kindia
+188,Kevin Gutierrez,Disque SSD,19,1073,20387,2025-12-07,Labé
+189,Eddie Ferguson,Téléphone,15,982,14730,2025-06-08,Nzérékoré
+190,Anna Tucker,Ordinateur,19,413,7847,2025-09-24,Conakry
+191,Andrew Herman,Souris,3,1992,5976,2025-06-05,Mamou
+192,Lauren Smith,Imprimante,10,1088,10880,2025-09-12,Mamou
+193,Blake Sullivan,Souris,18,617,11106,2025-04-21,Conakry
+194,Derek Roy,Disque SSD,14,1574,22036,2025-06-10,Conakry
+195,Joshua Pearson,Disque SSD,7,1625,11375,2026-01-01,Conakry
+196,Taylor Gonzalez,Écran,20,320,6400,2025-11-21,Conakry
+197,Jamie Jackson,Téléphone,18,297,5346,2025-08-14,Labé
+198,Morgan Medina,Écran,16,770,12320,2025-05-01,Nzérékoré
+199,Jillian Rice MD,Disque SSD,20,793,15860,2025-07-18,Mamou
+200,Susan Jensen,Écran,17,1302,22134,2025-07-07,Boké
+201,Phillip Vargas,Routeur,10,242,2420,2025-04-04,Labé
+202,Brian Perez,Souris,4,1511,6044,2025-11-03,Conakry
+203,Melissa Hopkins,Souris,17,1076,18292,2025-07-21,Kankan
+204,Kim Powell,Clavier,5,1254,6270,2025-04-29,Boké
+205,Audrey Pineda,Casque,12,368,4416,2025-01-17,Boké
+206,Stephen Barnes,Imprimante,9,1375,12375,2025-04-16,Labé
+207,Scott Rowe,Disque SSD,3,440,1320,2025-07-11,Nzérékoré
+208,James Richard,Souris,18,405,7290,2025-03-04,Conakry
+209,Tina Perez,Souris,5,848,4240,2025-10-04,Boké
+210,Mckenzie Strickland,Écran,10,1808,18080,2025-06-24,Conakry
+211,Rachel Khan,Casque,7,1030,7210,2025-11-01,Nzérékoré
+212,Caitlin Valdez,Ordinateur,8,1184,9472,2025-05-19,Boké
+213,Jennifer Morgan,Imprimante,11,1080,11880,2025-08-22,Mamou
+214,Scott Williamson,Souris,8,656,5248,2025-03-20,Kindia
+215,William Morris,Clavier,13,1622,21086,2025-12-07,Labé
+216,Elizabeth Mills MD,Clavier,7,134,938,2025-11-05,Nzérékoré
+217,Tracy Bailey,Casque,11,1616,17776,2025-02-26,Labé
+218,Megan Hunter,Tablette,2,996,1992,2025-07-11,Kindia
+219,Jared Cisneros,Téléphone,17,1670,28390,2025-09-22,Labé
+220,Tracy Garrison,Souris,14,1163,16282,2025-06-26,Boké
+221,Sonia Mitchell,Routeur,19,1481,28139,2025-04-21,Kindia
+222,Gary Davis,Clavier,16,1574,25184,2025-01-20,Labé
+223,Jeremy Smith,Souris,16,1431,22896,2025-04-14,Kankan
+224,Michael Smith,Téléphone,11,1299,14289,2025-12-11,Labé
+225,Sharon Schultz,Téléphone,2,1055,2110,2025-08-03,Kindia
+226,Laura Turner,Routeur,11,132,1452,2025-05-12,Labé
+227,Jessica Mills,Clavier,10,1172,11720,2025-07-21,Labé
+228,Colleen Bass,Ordinateur,16,1878,30048,2025-04-01,Kindia
+229,Dylan Graham,Ordinateur,8,1907,15256,2025-09-08,Conakry
+230,Amber Welch,Téléphone,14,710,9940,2025-07-27,Kindia
+231,Jacob Lopez,Ordinateur,12,462,5544,2025-06-29,Kankan
+232,Alexander Pena,Casque,18,565,10170,2025-08-26,Kindia
+233,Samantha Hanson,Clavier,15,285,4275,2025-07-03,Conakry
+234,Theresa Norris,Souris,11,641,7051,2025-05-06,Kankan
+235,Carla Gibson,Casque,18,846,15228,2025-10-15,Conakry
+236,Cheryl Sanchez,Ordinateur,6,1662,9972,2025-12-11,Conakry
+237,Mark Williams,Casque,18,1009,18162,2025-07-26,Boké
+238,Amanda Todd,Téléphone,18,1950,35100,2025-04-26,Boké
+239,Michael Valdez,Routeur,18,1617,29106,2025-10-24,Nzérékoré
+240,Susan Espinoza,Ordinateur,2,786,1572,2025-01-02,Nzérékoré
+241,Jose Griffin,Écran,10,239,2390,2025-03-30,Labé
+242,Robert Moss,Tablette,17,461,7837,2025-08-30,Kankan
+243,Hailey Scott,Clavier,2,975,1950,2025-11-24,Mamou
+244,Larry Richards,Souris,4,916,3664,2025-04-10,Kindia
+245,Elizabeth Powell,Routeur,2,715,1430,2025-10-04,Conakry
+246,Timothy Gonzalez,Disque SSD,10,107,1070,2025-01-30,Kankan
+247,Patricia Mcmillan,Routeur,7,1427,9989,2025-10-09,Labé
+248,Matthew Green,Casque,8,765,6120,2025-10-07,Boké
+249,James Knight,Ordinateur,8,1902,15216,2025-07-30,Kankan
+250,Suzanne Perry,Souris,9,1431,12879,2025-04-28,Boké
+251,Paul Carter,Routeur,12,1112,13344,2025-10-04,Mamou
+252,James Ryan,Souris,19,1732,32908,2025-05-28,Conakry
+253,Jeffrey Hayden,Clavier,12,407,4884,2026-01-01,Nzérékoré
+254,Sean Kelly,Téléphone,4,267,1068,2025-05-06,Boké
+255,Lance Johnson,Ordinateur,17,1782,30294,2025-11-08,Nzérékoré
+256,Jessica Huff,Casque,12,311,3732,2025-07-06,Nzérékoré
+257,Jesus Wood,Imprimante,12,1979,23748,2025-12-30,Kankan
+258,Jacob Ramirez,Téléphone,6,1151,6906,2025-11-08,Mamou
+259,Luis Cook,Imprimante,19,1821,34599,2025-09-05,Kankan
+260,Ashley Taylor,Souris,9,1074,9666,2025-07-06,Nzérékoré
+261,Mary Oconnor,Écran,16,1321,21136,2025-04-17,Boké
+262,Travis Johnston,Tablette,12,1854,22248,2025-02-06,Kankan
+263,Zachary Thompson,Téléphone,3,455,1365,2025-06-10,Kankan
+264,Matthew Taylor,Ordinateur,3,890,2670,2026-01-01,Boké
+265,Phyllis Wilson,Clavier,3,84,252,2025-01-26,Nzérékoré
+266,Gregory Russo,Disque SSD,9,1004,9036,2025-03-13,Mamou
+267,Randy Phillips,Casque,6,410,2460,2025-05-30,Kindia
+268,Sean Graham,Routeur,8,952,7616,2025-04-22,Kindia
+269,Gail Williams,Casque,20,119,2380,2025-09-22,Kindia
+270,Loretta Haley,Routeur,18,478,8604,2025-02-01,Kankan
+271,David Garza,Casque,12,870,10440,2025-03-31,Kankan
+272,Christopher Horton,Écran,19,1124,21356,2025-08-02,Mamou
+273,Audrey Palmer,Téléphone,14,525,7350,2025-11-10,Boké
+274,Andrea Dennis,Écran,6,377,2262,2025-11-07,Kindia
+275,Alicia Hernandez,Téléphone,11,626,6886,2025-03-30,Conakry
+276,Cody Ramos,Téléphone,16,791,12656,2025-08-22,Labé
+277,April Gutierrez,Tablette,15,955,14325,2025-12-28,Conakry
+278,Thomas Sanchez,Ordinateur,20,869,17380,2025-03-12,Kankan
+279,Scott Winters,Casque,2,325,650,2025-07-06,Conakry
+280,Sharon Montgomery,Téléphone,15,900,13500,2025-06-02,Kankan
+281,Cameron Carter,Téléphone,14,1753,24542,2025-03-15,Boké
+282,Danny Farley,Souris,20,383,7660,2025-04-14,Boké
+283,Julia Smith,Tablette,2,1788,3576,2025-09-24,Nzérékoré
+284,Brandy Taylor,Souris,5,1274,6370,2025-07-19,Mamou
+285,Jeremy Lowery,Téléphone,1,183,183,2025-09-02,Nzérékoré
+286,Jonathan Fleming,Écran,4,627,2508,2025-06-10,Boké
+287,Thomas Martin,Casque,4,661,2644,2025-06-23,Conakry
+288,Christian Zimmerman,Souris,5,1256,6280,2025-09-14,Conakry
+289,Monique Moore,Imprimante,4,440,1760,2025-09-12,Nzérékoré
+290,Matthew Stevens,Téléphone,14,1601,22414,2025-09-14,Boké
+291,Teresa Johnson,Imprimante,2,1625,3250,2025-12-27,Conakry
+292,Timothy Silva,Souris,14,445,6230,2025-10-26,Conakry
+293,Erin Martinez,Souris,4,1111,4444,2025-12-18,Nzérékoré
+294,Michael Wilson,Routeur,16,1741,27856,2025-05-14,Kindia
+295,Ronald Alvarez,Souris,3,999,2997,2025-03-22,Boké
+296,Jessica Medina,Ordinateur,15,1857,27855,2025-09-21,Nzérékoré
+297,Melissa Foster,Souris,13,670,8710,2025-04-07,Kindia
+298,Mrs. Haley Nichols,Casque,13,610,7930,2025-12-23,Conakry
+299,Eric Figueroa,Disque SSD,7,1210,8470,2025-09-23,Kankan
+300,Wendy Floyd,Téléphone,14,1043,14602,2025-05-12,Labé
+301,Joseph Elliott,Tablette,3,1499,4497,2025-03-06,Conakry
+302,Carmen Bailey,Téléphone,19,1517,28823,2025-02-06,Nzérékoré
+303,Regina Richards,Clavier,7,1979,13853,2025-02-07,Kindia
+304,Zachary Hall,Imprimante,5,1247,6235,2025-08-24,Nzérékoré
+305,Wanda Chavez,Imprimante,11,1479,16269,2025-07-06,Kankan
+306,Connor Walker,Casque,14,1294,18116,2025-12-07,Boké
+307,Erin Hinton,Casque,9,295,2655,2025-04-25,Nzérékoré
+308,Ronald Meyer,Souris,2,925,1850,2025-01-13,Labé
+309,Robert Franklin,Téléphone,10,1625,16250,2025-11-22,Boké
+310,Andrea Daniel,Routeur,4,978,3912,2025-04-01,Mamou
+311,Kelly Estrada,Disque SSD,9,541,4869,2025-05-18,Mamou
+312,Darlene Hughes DDS,Routeur,2,391,782,2025-03-17,Labé
+313,Noah Middleton,Tablette,15,265,3975,2025-05-18,Kindia
+314,Michele Rodriguez DDS,Casque,8,965,7720,2025-04-24,Nzérékoré
+315,Heather Gutierrez,Routeur,20,1722,34440,2025-07-17,Kindia
+316,Jacqueline Martin,Casque,7,946,6622,2025-12-06,Kankan
+317,Kelly Miller,Souris,19,1525,28975,2025-09-29,Labé
+318,Toni Morgan,Routeur,20,1014,20280,2025-09-21,Conakry
+319,Adrian Hudson,Imprimante,17,867,14739,2025-09-29,Kankan
+320,Joseph Thomas,Écran,1,333,333,2025-08-14,Kankan
+321,Melissa Lewis,Tablette,8,955,7640,2025-12-05,Kankan
+322,Katie Stevens,Téléphone,8,1814,14512,2025-07-26,Boké
+323,Gregory Medina,Imprimante,2,1173,2346,2025-01-10,Nzérékoré
+324,Elizabeth Norris,Casque,18,1018,18324,2025-11-18,Kankan
+325,Kelly Barr,Casque,18,1088,19584,2025-08-24,Boké
+326,Rachel Lewis,Disque SSD,2,79,158,2025-06-17,Nzérékoré
+327,Michelle Hodge,Téléphone,18,1652,29736,2025-03-31,Kindia
+328,Daniel Powell,Tablette,19,1546,29374,2025-07-14,Kindia
+329,Kelly Hanson,Routeur,10,1749,17490,2025-01-08,Boké
+330,Daniel Johnson,Disque SSD,2,1218,2436,2025-03-06,Kindia
+331,Harry Thompson,Souris,3,279,837,2025-12-08,Mamou
+332,Dr. Ruben Rivera,Tablette,1,923,923,2025-02-20,Nzérékoré
+333,Nicholas Bailey,Tablette,10,1964,19640,2025-09-29,Kankan
+334,Ryan Crawford,Routeur,16,1147,18352,2025-07-04,Nzérékoré
+335,Nancy Curry,Routeur,8,995,7960,2025-04-21,Boké
+336,Christopher Whitney,Disque SSD,17,577,9809,2025-01-28,Kindia
+337,Logan Benton,Imprimante,5,839,4195,2025-10-08,Kankan
+338,Bryan Haynes,Tablette,13,930,12090,2025-07-05,Kankan
+339,Robert Smith,Tablette,20,1671,33420,2025-04-09,Kindia
+340,Jesus Adams,Clavier,3,1159,3477,2025-12-13,Conakry
+341,Daniel Green,Clavier,7,1813,12691,2025-12-19,Kindia
+342,Chad Harrison,Imprimante,3,99,297,2025-10-05,Nzérékoré
+343,Oscar Spears,Tablette,14,1877,26278,2025-07-27,Conakry
+344,Carl Clark,Imprimante,9,302,2718,2025-12-27,Labé
+345,Diane Hinton,Tablette,15,88,1320,2025-11-02,Nzérékoré
+346,Marilyn Lynch,Ordinateur,14,64,896,2025-12-06,Boké
+347,Eric Holloway,Souris,5,1091,5455,2025-01-28,Nzérékoré
+348,Courtney Lowe,Imprimante,20,908,18160,2025-08-24,Kindia
+349,Kevin Kemp,Tablette,20,1081,21620,2025-12-19,Mamou
+350,Tiffany Stephenson,Écran,2,1508,3016,2025-09-17,Mamou
+351,Thomas Parker,Imprimante,6,73,438,2025-01-14,Nzérékoré
+352,Lauren Davis,Téléphone,16,1454,23264,2025-06-30,Nzérékoré
+353,Timothy Johnson,Écran,10,1832,18320,2025-05-27,Labé
+354,Juan Anderson,Téléphone,12,541,6492,2025-01-09,Kankan
+355,James Palmer,Souris,18,1654,29772,2025-11-04,Kankan
+356,David Benson,Téléphone,7,1133,7931,2025-04-09,Labé
+357,Karen Hunt,Imprimante,8,2000,16000,2025-09-24,Kindia
+358,Brian Hardy,Tablette,8,1369,10952,2025-01-19,Kankan
+359,Stephen Hill,Écran,15,1816,27240,2025-12-08,Labé
+360,Jesus Hunter,Tablette,1,1713,1713,2025-04-05,Mamou
+361,Peter Schroeder,Imprimante,2,1887,3774,2025-04-04,Kankan
+362,Samantha Hughes,Clavier,10,135,1350,2025-06-15,Labé
+363,John Gomez,Souris,15,731,10965,2025-04-19,Nzérékoré
+364,Michelle Holmes,Imprimante,3,169,507,2025-01-25,Nzérékoré
+365,Brooke Bradley,Téléphone,7,198,1386,2025-09-18,Labé
+366,Joseph Ryan,Ordinateur,17,890,15130,2025-04-07,Labé
+367,Brian Parks,Téléphone,18,1983,35694,2025-05-30,Boké
+368,Robin Chambers,Ordinateur,14,535,7490,2025-09-27,Nzérékoré
+369,Tracey Lee,Écran,2,1774,3548,2025-06-24,Nzérékoré
+370,Miranda Johnston,Souris,3,1179,3537,2025-11-20,Conakry
+371,Nicholas Crawford,Disque SSD,4,286,1144,2025-11-27,Conakry
+372,Patricia Prince,Ordinateur,6,952,5712,2025-01-06,Conakry
+373,Tina Roach,Téléphone,6,799,4794,2025-04-24,Mamou
+374,Teresa Garcia,Imprimante,2,931,1862,2025-09-22,Kankan
+375,Amanda Holmes,Routeur,12,206,2472,2025-02-12,Nzérékoré
+376,Sarah Chung,Imprimante,10,1412,14120,2025-09-04,Conakry
+377,Amanda Rivas,Casque,18,902,16236,2025-02-07,Conakry
+378,Michael Colon,Écran,11,1851,20361,2025-10-26,Boké
+379,Pamela Pierce,Écran,16,794,12704,2025-08-01,Mamou
+380,Benjamin Shields,Téléphone,5,1779,8895,2025-02-22,Nzérékoré
+381,Alejandra Campbell,Casque,11,211,2321,2025-01-21,Conakry
+382,Cassandra Diaz,Clavier,9,1086,9774,2025-04-25,Nzérékoré
+383,Jordan Joseph,Clavier,3,903,2709,2025-03-13,Kindia
+384,Bianca Smith,Clavier,1,1212,1212,2025-12-15,Kindia
+385,Connie Gordon,Tablette,7,1746,12222,2025-07-10,Kankan
+386,Robert Young,Tablette,12,161,1932,2025-07-08,Kindia
+387,Terry Stanton,Clavier,8,1958,15664,2025-02-27,Kankan
+388,Beverly Lyons,Disque SSD,14,1974,27636,2025-05-08,Labé
+389,Martha Combs,Téléphone,6,646,3876,2025-01-07,Kindia
+390,Henry Fisher,Disque SSD,7,1776,12432,2025-04-02,Boké
+391,Thomas Holmes,Ordinateur,8,422,3376,2025-12-01,Labé
+392,Mario Mills,Disque SSD,7,60,420,2025-01-10,Boké
+393,Brett Mitchell,Ordinateur,1,1363,1363,2025-06-09,Conakry
+394,Andrea Barker,Souris,2,377,754,2025-04-17,Mamou
+395,Katherine Fuentes,Écran,18,1306,23508,2025-03-11,Mamou
+396,Tammy Bradford,Routeur,16,1293,20688,2025-01-06,Nzérékoré
+397,Jacob Taylor,Imprimante,1,290,290,2025-11-25,Labé
+398,Diane Clark,Tablette,13,1798,23374,2025-09-12,Kindia
+399,Leslie Li,Casque,18,1672,30096,2025-12-27,Labé
+400,Michelle Wilson,Écran,15,1450,21750,2025-08-11,Mamou
+401,Amy Williams,Souris,13,262,3406,2025-01-19,Conakry
+402,Dwayne Carter,Clavier,15,380,5700,2025-04-19,Mamou
+403,Holly Garcia,Clavier,4,633,2532,2025-12-02,Boké
+404,Timothy Sanchez,Imprimante,7,567,3969,2025-10-14,Conakry
+405,Carrie Warner,Souris,17,1461,24837,2025-12-03,Kankan
+406,John Johns,Routeur,4,382,1528,2025-09-07,Kindia
+407,Traci Fletcher,Souris,12,896,10752,2025-05-09,Labé
+408,Emily Perez,Téléphone,2,226,452,2025-02-21,Kankan
+409,Deborah Walton,Tablette,9,135,1215,2025-11-21,Boké
+410,James White,Écran,6,1366,8196,2025-09-24,Conakry
+411,Nina Thompson,Imprimante,13,344,4472,2025-05-04,Conakry
+412,Ashley Reyes,Disque SSD,5,1608,8040,2025-02-22,Labé
+413,Kathleen Floyd,Disque SSD,7,1432,10024,2025-07-28,Boké
+414,Bryan Walker,Imprimante,7,1206,8442,2025-09-08,Kankan
+415,Eric Cook,Ordinateur,5,178,890,2025-02-14,Mamou
+416,Jason Harper,Routeur,12,408,4896,2025-10-08,Mamou
+417,Cassandra Patterson,Imprimante,1,510,510,2025-05-11,Kankan
+418,Bryce Lane,Imprimante,16,299,4784,2025-04-16,Kankan
+419,Nicholas Farley,Imprimante,20,266,5320,2025-03-16,Mamou
+420,Brian Foster DVM,Imprimante,16,1646,26336,2025-07-28,Kindia
+421,Cynthia Nichols,Souris,12,1569,18828,2025-07-01,Kankan
+422,David Robinson,Casque,17,215,3655,2025-06-15,Nzérékoré
+423,Ashley Cisneros,Ordinateur,5,868,4340,2025-11-03,Labé
+424,Brandon Jimenez,Casque,12,469,5628,2025-03-07,Kankan
+425,Shawn Quinn,Souris,2,1303,2606,2025-10-08,Kindia
+426,Robert Ross,Souris,4,84,336,2025-09-25,Nzérékoré
+427,Monica Mccarthy,Tablette,4,774,3096,2025-01-20,Labé
+428,Timothy Webster,Tablette,12,1579,18948,2025-11-15,Nzérékoré
+429,Sharon Ellis,Imprimante,17,1657,28169,2025-10-06,Nzérékoré
+430,Lauren Davis,Imprimante,2,152,304,2025-07-26,Kankan
+431,Frederick Thompson,Tablette,7,1135,7945,2025-04-25,Kankan
+432,Craig Fowler,Clavier,3,1211,3633,2025-11-19,Labé
+433,Christina Santiago,Tablette,10,247,2470,2025-12-10,Mamou
+434,Katelyn Banks,Tablette,20,1785,35700,2025-06-24,Boké
+435,Christopher Jones,Souris,7,868,6076,2025-04-04,Nzérékoré
+436,Crystal Evans,Tablette,4,1235,4940,2026-01-01,Conakry
+437,Michael Owens,Imprimante,1,492,492,2025-07-06,Kindia
+438,Erica Miles,Casque,1,580,580,2025-08-05,Kindia
+439,Brandi Castaneda,Imprimante,20,564,11280,2025-01-07,Kindia
+440,William Williams,Tablette,8,499,3992,2025-09-12,Kindia
+441,Sheryl Wolf,Téléphone,14,1811,25354,2025-07-19,Nzérékoré
+442,Kayla Simpson,Imprimante,5,217,1085,2025-12-19,Kankan
+443,Anthony Cruz,Disque SSD,6,272,1632,2025-12-04,Boké
+444,Carl Miller,Écran,10,1743,17430,2025-12-08,Labé
+445,Andrew Crawford,Écran,11,271,2981,2025-10-31,Boké
+446,Eric Chen,Imprimante,15,1035,15525,2025-10-19,Labé
+447,Karen Allen DVM,Casque,12,466,5592,2025-07-16,Boké
+448,David Nelson,Souris,9,1487,13383,2025-11-02,Kindia
+449,Erin Sanchez,Écran,11,849,9339,2025-04-19,Mamou
+450,John Jimenez,Souris,7,494,3458,2025-02-19,Mamou
+451,Tammy Henson PhD,Clavier,17,441,7497,2025-12-30,Boké
+452,John Harrington,Clavier,8,1916,15328,2025-03-10,Labé
+453,Daniel Kelly,Routeur,3,1418,4254,2025-11-29,Mamou
+454,Seth Williams,Téléphone,10,1332,13320,2025-03-29,Nzérékoré
+455,Melissa Santos,Téléphone,5,673,3365,2025-11-25,Labé
+456,Dakota Alexander,Écran,7,91,637,2025-05-28,Kankan
+457,Manuel Riley,Souris,10,490,4900,2025-08-21,Boké
+458,Crystal Simmons,Tablette,18,1975,35550,2025-06-09,Kindia
+459,Jennifer Stark,Disque SSD,16,1667,26672,2025-01-15,Kindia
+460,Aaron Campbell,Souris,12,1037,12444,2025-04-19,Kindia
+461,Jeffrey Henry,Ordinateur,18,163,2934,2025-12-10,Mamou
+462,Scott Aguilar,Disque SSD,13,1864,24232,2025-09-29,Kindia
+463,Sandra Morgan,Ordinateur,18,1125,20250,2025-01-16,Conakry
+464,Patrick Hansen,Ordinateur,19,1525,28975,2025-11-13,Mamou
+465,Tina Kramer,Routeur,7,833,5831,2025-03-09,Kankan
+466,Adrienne Gregory,Routeur,12,1340,16080,2025-07-23,Kindia
+467,Matthew Wise,Routeur,15,1810,27150,2025-06-11,Kindia
+468,Lorraine Jones,Routeur,3,1047,3141,2025-12-24,Kindia
+469,Brian Simpson,Souris,2,1986,3972,2025-02-19,Labé
+470,Rebecca Peterson,Écran,7,1877,13139,2025-03-31,Boké
+471,John Andrews,Casque,4,1852,7408,2025-04-10,Mamou
+472,Rachel Smith,Souris,3,795,2385,2025-08-13,Kankan
+473,Christopher Ponce,Casque,4,1256,5024,2025-12-09,Kindia
+474,Jason Richardson Jr.,Clavier,14,1342,18788,2025-12-02,Nzérékoré
+475,Charles Jones,Écran,16,85,1360,2025-09-30,Labé
+476,Douglas Noble,Ordinateur,4,1221,4884,2025-12-06,Kankan
+477,Laura Evans,Routeur,5,216,1080,2025-05-10,Boké
+478,Angela Jones,Souris,2,1005,2010,2025-03-30,Boké
+479,Dr. John Garrison,Tablette,11,1602,17622,2025-07-22,Mamou
+480,Jeffrey Fields,Casque,13,995,12935,2025-01-20,Mamou
+481,Susan Ware,Téléphone,6,346,2076,2025-12-31,Boké
+482,Tammy Rosales,Tablette,5,742,3710,2025-03-16,Conakry
+483,Amanda Kim,Souris,16,689,11024,2025-03-14,Kindia
+484,Mark Brown,Ordinateur,1,1148,1148,2025-05-04,Labé
+485,Kristen Andersen,Clavier,18,1998,35964,2025-10-25,Conakry
+486,Antonio Rodriguez,Disque SSD,16,760,12160,2025-03-19,Labé
+487,Brandon Young,Clavier,10,1096,10960,2025-12-12,Labé
+488,Sierra Wright,Imprimante,4,1126,4504,2025-09-27,Kankan
+489,Jeff Chavez,Souris,19,689,13091,2025-04-19,Labé
+490,Ryan Horton,Ordinateur,13,1737,22581,2025-01-14,Mamou
+491,Anthony Thompson,Routeur,20,325,6500,2025-10-12,Kankan
+492,Rachael Porter,Clavier,4,565,2260,2025-10-17,Mamou
+493,Gerald Cardenas,Téléphone,17,1635,27795,2025-03-07,Labé
+494,Michele Rice,Disque SSD,1,1857,1857,2025-12-21,Kankan
+495,Brett Miller,Clavier,5,704,3520,2025-02-14,Mamou
+496,Traci Hart,Casque,19,1085,20615,2025-12-09,Labé
+497,Timothy Francis,Disque SSD,13,1768,22984,2025-12-21,Kankan
+498,Blake Morrison,Imprimante,19,1464,27816,2025-04-02,Conakry
+499,Dr. Craig Johnson,Ordinateur,19,1785,33915,2025-07-28,Nzérékoré
+500,Todd Nelson,Imprimante,2,274,548,2025-07-23,Kankan
